@@ -12,6 +12,10 @@ public class OperadoresLogicosRelacionais {
         System.out.println("Informe um número inteiro:");
         int numeroDois = scanner.nextInt();
 
+        String resultado = numeroUm > numeroDois ? numeroUm + " é maior que " + numeroDois : numeroUm == numeroDois ? numeroUm + " é igual ao " + numeroDois : numeroUm + " é menor que " + numeroDois;
+
+        System.out.println(resultado);
+
         if (numeroUm > numeroDois) {
             System.out.println(numeroUm  + " é maior que " + numeroDois);
         }else if (numeroUm == numeroDois) {
