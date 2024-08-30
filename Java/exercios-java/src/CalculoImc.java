@@ -1,3 +1,10 @@
+/*
+ * Exercício 6:
+
+Objetivo: Calcular o IMC (Índice de Massa Corporal).
+Descrição: Peça ao usuário que informe seu peso (em kg) e altura (em metros). Use a fórmula IMC = peso / (altura * altura) para calcular e exibir o IMC.
+ */
+
 import java.util.Scanner;
 
 public class CalculoImc {

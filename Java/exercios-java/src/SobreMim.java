@@ -1,3 +1,10 @@
+/*
+ Exercício 3:
+
+Objetivo: Trabalhar com entrada de dados usando a classe Scanner.
+Descrição: Crie um programa que solicite ao usuário seu nome e idade, e depois exiba uma mensagem como "Olá, [nome]! Você tem [idade] anos.".
+ */
+
 import java.util.Scanner;
 
 public class SobreMim {

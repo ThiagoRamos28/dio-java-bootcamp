@@ -1,3 +1,10 @@
+/*
+Exercício 5:
+
+Objetivo: Utilizar operadores lógicos e relacionais.
+Descrição: Crie um programa que solicite ao usuário dois números e determine se o primeiro número é maior, menor ou igual ao segundo. Exiba o resultado com uma mensagem apropriada.
+ */
+
 import java.util.Scanner;
 
 public class OperadoresLogicosRelacionais {
