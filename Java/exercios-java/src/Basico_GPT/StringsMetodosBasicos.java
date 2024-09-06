@@ -1,3 +1,4 @@
+package Basico_GPT;
 /*
  * Exercício 7:
 

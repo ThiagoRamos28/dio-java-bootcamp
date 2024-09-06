@@ -1,3 +1,4 @@
+package Basico_GPT;
 /**
  * <h1> Exercício 1: </h1>
  * <b>Objetivo:<b> Declarar e inicializar variáveis

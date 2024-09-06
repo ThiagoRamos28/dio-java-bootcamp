@@ -1,3 +1,4 @@
+package Basico_GPT;
 /*Exercício 8:
 
 Objetivo: Criar um programa de cálculo de média.
