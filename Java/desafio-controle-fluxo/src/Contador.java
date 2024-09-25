@@ -28,7 +28,7 @@ public class Contador {
 
         // Realiza o loop para contar e imprimir os números
         int quantidade = parametroDois - parametroUm;
-        System.out.println("O quantidade de impressões será igual a " + quantidade);
+        System.out.println("A quantidade de impressões será igual a " + quantidade);
         for (int i = 1; i <= quantidade; i++) {
             System.out.println("Impressão número " + i);
         }
